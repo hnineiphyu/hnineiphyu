@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Hnin Ei Phyu</h1>
 
 <h3 align="center">System Analyst | Senior .NET Developer | Application Support Specialist</h3>
@@ -154,4 +153,3 @@ University of Computer Studies, Yangon
 <p align="center">
 ⭐ Thank you for visiting my profile! Feel free to connect or collaborate on exciting software engineering projects.
 </p>
-```
